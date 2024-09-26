@@ -15,6 +15,7 @@ namespace FirstWebApplication
             {
                 cmbChuyenNganh.Items.Insert(0, "");
                 cmbChuyenNganh.Items.Add("KTDTVT");
+                cmbChuyenNganh.Items.Add("Y");
             }
         }
 
